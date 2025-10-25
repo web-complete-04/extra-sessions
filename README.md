@@ -26,3 +26,12 @@ Git branches explained
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/jXDZlLOfsBhJGkHr4djMkwCj51yU_cEgzSisiKe-FFudSVu4wIpbnsethA52Q-aS.uDjlVYGYBee7ie8C)
 
 Passcode: **dE5Yq2^s**
+
+
+### Session 04 - 18.10.2025
+1. Using git / github in a collaborative project: [GitHub collaborative project repo](https://github.com/web-complete-04/web-complete-collaborative-test)
+2. Algorithmics: random student picker
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/v2CL1KG3oCsiBqEuEZHt4ENLnVgvUpe-Hu9xeusnTYIs7dETsYOxvihnWObUYJma.bw5fCv1850CR8cyu)
+
+Passcode: **SMDy3Gs#**
