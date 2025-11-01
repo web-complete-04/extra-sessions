@@ -35,3 +35,12 @@ Passcode: **dE5Yq2^s**
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/v2CL1KG3oCsiBqEuEZHt4ENLnVgvUpe-Hu9xeusnTYIs7dETsYOxvihnWObUYJma.bw5fCv1850CR8cyu)
 
 Passcode: **SMDy3Gs#**
+
+
+### Session 05 - 01.11.2025
+1. Using git / github in a collaborative project: [GitHub collaborative project repo](https://github.com/web-complete-04/web-complete-collaborative-test)
+2. Algorithmics: iterations - dice roll game. Win if you roll 3 times 6 out of 5 rolls.
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/fBTOtkLOapSa4sJR1ZHurpfAQd2U6xss_U4jhDF6s35-irKwOLKOo0Uj7dXSTzTS.TGNr63YaNH_wI98d)
+
+Passcode: **1!FdCw0Z**
