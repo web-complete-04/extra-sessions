@@ -44,3 +44,12 @@ Passcode: **SMDy3Gs#**
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/fBTOtkLOapSa4sJR1ZHurpfAQd2U6xss_U4jhDF6s35-irKwOLKOo0Uj7dXSTzTS.TGNr63YaNH_wI98d)
 
 Passcode: **1!FdCw0Z**
+
+### Session 06 - 08.11.2025
+Algorithmics workshop
+1. Implement a lottery simulation
+2. Simulate a board game survivor
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/xqs2WQdM-6dtiwiWZjnecB-Lx95lJlKIJwyAww_ggdpgNwLOmXDWUG5OPFPq2dh6.sQC-Aan4uOowTzPm)
+
+Passcode: **%GNB18*f**
