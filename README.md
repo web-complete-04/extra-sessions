@@ -53,3 +53,12 @@ Algorithmics workshop
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/xqs2WQdM-6dtiwiWZjnecB-Lx95lJlKIJwyAww_ggdpgNwLOmXDWUG5OPFPq2dh6.sQC-Aan4uOowTzPm)
 
 Passcode: **%GNB18*f**
+
+### Session 07 - 22.11.2025
+Algorithmics workshop
+1. Using JS Object & Array literals to store complex data
+2. Shuffling elements in an array
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/ZjlbJFdwq8uwBfAyVH8_TjbYoauQXKuz_8YZIw-yJq6PNVmgo-ZUz74_ACtXnpO4.1wtgB8JAj9CVfKR-)
+
+Passcode: **#gZ82F?u**
