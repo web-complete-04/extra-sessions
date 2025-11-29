@@ -62,3 +62,11 @@ Algorithmics workshop
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/ZjlbJFdwq8uwBfAyVH8_TjbYoauQXKuz_8YZIw-yJq6PNVmgo-ZUz74_ACtXnpO4.1wtgB8JAj9CVfKR-)
 
 Passcode: **#gZ82F?u**
+
+### Session 08 - 22.11.2025
+Functions workshop
+1. Survivor game implementation using functions
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/WamBhXpRHNXro23FncNgz0n2d2Vy14MkjnZjdyKA6nUw3YcHNm8yqjT2N3hCuNK2.8ACNiyG8AaWTsOG1)
+
+Passcode: **H.7V.mgT**
