@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.container{
+    background-color: bisque;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter-display{
+    font-size: 5rem;
+    font-weight: bold;
+    border: 1px solid;
+    width: 15rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.danger{
+    color: red;
+}
