@@ -70,3 +70,14 @@ Functions workshop
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/WamBhXpRHNXro23FncNgz0n2d2Vy14MkjnZjdyKA6nUw3YcHNm8yqjT2N3hCuNK2.8ACNiyG8AaWTsOG1)
 
 Passcode: **H.7V.mgT**
+
+### Session 09 - 06.12.2025
+Higher order functions workshop
+1. Passing a function as a param when creating event listeners
+2. Passing a function as a param when using setInterval
+3. Teaser for event listeners
+4. Teaser for DOM
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/qZKrbM_AIXIUCjwYUpNul4MAnn3JejpJbJZrjfAuBi1_lJWK1cGAwZQtfwxENH31.ztzMbe0Nqw1vPYGS)
+
+Passcode: **RSY9#eGJ**
