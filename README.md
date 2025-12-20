@@ -81,3 +81,23 @@ Higher order functions workshop
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/qZKrbM_AIXIUCjwYUpNul4MAnn3JejpJbJZrjfAuBi1_lJWK1cGAwZQtfwxENH31.ztzMbe0Nqw1vPYGS)
 
 Passcode: **RSY9#eGJ**
+
+### Session 10 - 13.12.2025
+DOM workshop - creating a rock paper scissors output in a delayed
+1. Using setInterval in JS
+2. Using element.textContent to output the result as text 
+3. Using imageElement.src property to output the result as an image
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/IZOlj3SLYcU6xRs21vvRjUE_VQaiM8vPvNu8-gQP4NFnIrXB6B3tKJd7Pixj1c59.zedHp88HG42i06Im)
+
+Passcode: **A^Pk%u0h**
+
+
+### Session 11 - 20.12.2025
+DOM workshop - code refactoring for a click conter
+1. Using a closure on an event listener
+2. CSS styling of teh UI
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/LkDtbybrcdhS07ltYp1gy-DzUDKCCx-sVdWAVTiHCTXBrGzlGDcbxwaA1pvs7vyy.RiHmMaB1e-YALCpq)
+
+Passcode: **%5r35fTq**
