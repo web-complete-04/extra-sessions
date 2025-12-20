@@ -1,0 +1,32 @@
+h1 {
+    background-color: yellow;
+}
+
+.counter {
+    background-color: rgb(227, 237, 240);
+    width: 300px;
+    padding: 1rem;
+    border: 1px solid;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.counter-display {
+    font-size: 3rem;
+    margin: 1rem;
+}
+
+.counter-buttons,
+.counter-set {
+    margin: 1rem;
+    border-top: 1px solid rgb(135, 160, 168);
+    padding-top: 0.5rem;
+}
+
+.counter-buttons button{
+    padding: 0.25rem 0.75rem;
+}
+
+#set-value-textbox{
+    width: 5rem;
+}
