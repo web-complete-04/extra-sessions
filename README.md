@@ -110,7 +110,3 @@ DOM workshop - randomly color a box in a set of boxes
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/3PAuQutRYrTKUhhnVOGA6nuuZEHH_SKi3z940vGDkXMOvLOw8sW7XJ_G4RlSNIBy.3H7feWK34dzQElFs)
 
 Passcode: **f#*1W1J0**
-
-
- 
-Passcode: 
