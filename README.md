@@ -110,3 +110,12 @@ DOM workshop - randomly color a box in a set of boxes
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/3PAuQutRYrTKUhhnVOGA6nuuZEHH_SKi3z940vGDkXMOvLOw8sW7XJ_G4RlSNIBy.3H7feWK34dzQElFs)
 
 Passcode: **f#*1W1J0**
+
+### Session 13 - 03.01.2026
+DOM recap - a password control that shows the password
+1. Creating a random password
+2. Switching the type of a pasword input to a text
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/sw3JDE2ohRR7JdCP5CrJCH2xzkKQc-2OlNqrOnik9r8epEqeUH_OBar6xPWbVHXT.arnDTDOgITRy3OY9)
+
+Passcode: **Jmh.!P?3**
