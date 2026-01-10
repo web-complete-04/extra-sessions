@@ -119,3 +119,12 @@ DOM recap - a password control that shows the password
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/sw3JDE2ohRR7JdCP5CrJCH2xzkKQc-2OlNqrOnik9r8epEqeUH_OBar6xPWbVHXT.arnDTDOgITRy3OY9)
 
 Passcode: **Jmh.!P?3**
+
+### Session 14 - 10.01.2026
+Arrow functions, array methods & DOM implementation
+1. Array.forEach vs Array.map
+2. Creating player cards with JS, based on an array of objects
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/uQR1tycT29Ky3FJmRFIyJs7zofM3TDfU5G56xa99KsGiRFtmd0BUsB7hNSbhvD77.W3XvAS8R0TVdn9Wt)
+
+Passcode: **S8TMc%gJ**
