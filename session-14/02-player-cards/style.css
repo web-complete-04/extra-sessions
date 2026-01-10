@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.card {
+    width: 250px;
+    padding: 1rem;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card .avatar{
+    width: 150px;
+}
