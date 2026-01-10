@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+.squares-container {
+    /* width: 400px; */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    /* width: 100px; */
+    aspect-ratio: 1;
+    border: 1px solid lightgray;
+    padding: 10px;
+    cursor: pointer;
+}

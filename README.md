@@ -94,10 +94,28 @@ Passcode: **A^Pk%u0h**
 
 
 ### Session 11 - 20.12.2025
-DOM workshop - code refactoring for a click conter
+DOM workshop - code refactoring for a click counter
 1. Using a closure on an event listener
 2. CSS styling of teh UI
 
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/LkDtbybrcdhS07ltYp1gy-DzUDKCCx-sVdWAVTiHCTXBrGzlGDcbxwaA1pvs7vyy.RiHmMaB1e-YALCpq)
 
 Passcode: **%5r35fTq**
+
+### Session 12 - 27.12.2025
+DOM workshop - randomly color a box in a set of boxes
+1. Using document.createElement
+2. Creating a function to generate a random hexa color value
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/3PAuQutRYrTKUhhnVOGA6nuuZEHH_SKi3z940vGDkXMOvLOw8sW7XJ_G4RlSNIBy.3H7feWK34dzQElFs)
+
+Passcode: **f#*1W1J0**
+
+### Session 13 - 03.01.2026
+DOM recap - a password control that shows the password
+1. Creating a random password
+2. Switching the type of a pasword input to a text
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/sw3JDE2ohRR7JdCP5CrJCH2xzkKQc-2OlNqrOnik9r8epEqeUH_OBar6xPWbVHXT.arnDTDOgITRy3OY9)
+
+Passcode: **Jmh.!P?3**
