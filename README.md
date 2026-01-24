@@ -102,6 +102,7 @@ DOM workshop - code refactoring for a click counter
 
 Passcode: **%5r35fTq**
 
+
 ### Session 12 - 27.12.2025
 DOM workshop - randomly color a box in a set of boxes
 1. Using document.createElement
@@ -110,6 +111,7 @@ DOM workshop - randomly color a box in a set of boxes
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/3PAuQutRYrTKUhhnVOGA6nuuZEHH_SKi3z940vGDkXMOvLOw8sW7XJ_G4RlSNIBy.3H7feWK34dzQElFs)
 
 Passcode: **f#*1W1J0**
+
 
 ### Session 13 - 03.01.2026
 DOM recap - a password control that shows the password
@@ -120,6 +122,7 @@ DOM recap - a password control that shows the password
 
 Passcode: **Jmh.!P?3**
 
+
 ### Session 14 - 10.01.2026
 Arrow functions, array methods & DOM implementation
 1. Array.forEach vs Array.map
@@ -129,9 +132,18 @@ Arrow functions, array methods & DOM implementation
 
 Passcode: **S8TMc%gJ**
 
+
 ### Session 15 - 17.01.2026
 Using fetch GET to retrieve and display API data in browser
 
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/tFqbfo1SX_BKqgRI0Rd6OQRp7S9-weLE313G2ZoKfCZeshojo9mGgyqZrD4jKmf5.lIAnfZScWCXcYqNE)
 
 Passcode: ***%9XHcGK**
+
+
+### Session 16 - 24.01.2026
+Creating and using a filter form using Boostrap & FormData
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/_3mfhderLgis8bpElNVzMV-Oy4R4NdMVR9w6svBLZSHGa00X_P4t_6s9Ck5gNSOX.3vjdg70CviihYB_Q)
+
+Passcode: **NWy$=*1z**
