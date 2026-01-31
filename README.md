@@ -147,3 +147,12 @@ Creating and using a filter form using Boostrap & FormData
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/_3mfhderLgis8bpElNVzMV-Oy4R4NdMVR9w6svBLZSHGa00X_P4t_6s9Ck5gNSOX.3vjdg70CviihYB_Q)
 
 Passcode: **NWy$=*1z**
+
+
+
+### Session 17 - 31.01.2026
+Fetching XML from localhost (127.0.0.1) via live server
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/8fQJK1vcKzp2oudcMinSWayNK3g22bgvV3OwQkgPqV9RQDITAqYg5uIoZbM1cfRz.BT4PzOOBb8mN-H21)
+
+Passcode: **?3uku@W***
