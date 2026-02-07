@@ -156,3 +156,12 @@ Fetching XML from localhost (127.0.0.1) via live server
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/8fQJK1vcKzp2oudcMinSWayNK3g22bgvV3OwQkgPqV9RQDITAqYg5uIoZbM1cfRz.BT4PzOOBb8mN-H21)
 
 Passcode: **?3uku@W***
+
+
+
+### Session 18 - 07.02.2026
+Connecting front-end and back-end: CORS headers, implementation of GET and POST
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/xACAW5Bsdhw2SWE7snKQxd2yHFjjP1AaQ33wf-TzQFhscXz4jT5BEFUlAtvvNz7X.AIiYw0rCdLEfuG-x)
+
+Passcode: **37u@BNY***
