@@ -165,3 +165,12 @@ Connecting front-end and back-end: CORS headers, implementation of GET and POST
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/xACAW5Bsdhw2SWE7snKQxd2yHFjjP1AaQ33wf-TzQFhscXz4jT5BEFUlAtvvNz7X.AIiYw0rCdLEfuG-x)
 
 Passcode: **37u@BNY***
+
+
+
+### Session 19 - 14.02.2026
+Installing json-server, json-server-auth, using Bruno API Client
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/8ZfydMLKEic2nUDDCch2tr_5-kXP2Etf7utV5C8NmMcuaQMa7VlO0_q74jSZr23V.5M77C6JT0fl0m7Fc)
+
+Passcode: **&F43HiTc**

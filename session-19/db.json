@@ -1,0 +1,42 @@
+{
+  "$schema": "./node_modules/json-server/schema.json",
+  "users": [
+    {
+      "email": "user1@mail.com",
+      "password": "$2a$10$uxO0fJwLx9AlIP3rmloOcuQVxt808.e6YkTczsEvyO.aoc6i1wRHK",
+      "id": 1
+    },
+    {
+      "email": "user2@mail.com",
+      "password": "$2a$10$ay2f.N.cIC2RLgpdfP3yjO1o8s7oQgARMwYToDPj.uvkxvL8.oWuG",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
