@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+
+.container {
+    background-color: rgb(234, 234, 234);
+    padding: 0.25rem 1rem 1rem;
+}
+
+#cards-container{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.player-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    border: 1px solid grey;
+    border-radius: 20px;
+    height: 16rem;
+    aspect-ratio: 0.75;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.player-card h2 {
+    color: rgb(54, 54, 54);
+}
+
+.player-card .avatar {
+    font-size: 3rem;
+    border: 5px solid;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.player-card .score {
+    font-size: 1.5rem;
+    font-weight: bold;
+}

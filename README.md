@@ -174,3 +174,12 @@ Installing json-server, json-server-auth, using Bruno API Client
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/8ZfydMLKEic2nUDDCch2tr_5-kXP2Etf7utV5C8NmMcuaQMa7VlO0_q74jSZr23V.5M77C6JT0fl0m7Fc)
 
 Passcode: **&F43HiTc**
+
+
+
+### Session 20 - 21.02.2026
+OOP in JS: create player cards
+
+[Zoom Recording](https://scoalainformala.zoom.us/rec/share/WIi7sRc_gtCa4GSS3aixjzVwAHMU-Bea27JviSf_mXJxHs7HUtfU3y9IF0Lnz76F.FBRoipmWdqlmjX0b )
+
+Passcode: **50r?P7jj**
