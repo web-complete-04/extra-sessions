@@ -183,3 +183,7 @@ OOP in JS: create player cards
 [Zoom Recording](https://scoalainformala.zoom.us/rec/share/WIi7sRc_gtCa4GSS3aixjzVwAHMU-Bea27JviSf_mXJxHs7HUtfU3y9IF0Lnz76F.FBRoipmWdqlmjX0b )
 
 Passcode: **50r?P7jj**
+
+
+### Session 21 - 14.03.2026
+OOP: Advanced concepts  - Model-View with custom created observers
