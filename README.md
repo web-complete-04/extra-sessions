@@ -186,4 +186,4 @@ Passcode: **50r?P7jj**
 
 
 ### Session 21 - 14.03.2026
-OOP: Advanced concepts  - Model-View with custom created observers
+OOP - Advanced concepts: Model-View with custom created observers

@@ -78,7 +78,3 @@ setInterval(() => {
     d1.roll();
     console.log(`${d1.name} last roll: ${d1.value}`);
 }, 2000)
-
-// const d2 = new Dice('Dice 2 [12 sides]', 12);
-// console.log(d2.roll());
-
